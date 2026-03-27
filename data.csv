@@ -1,0 +1,33 @@
+Name,Department,Sales_INR,Month,State,City,Gender
+Aarav Shah,Sales,52000,January,Maharashtra,Mumbai,Male
+Priya Patel,Marketing,48000,January,Gujarat,Ahmedabad,Female
+Rohit Sharma,IT,61000,January,Delhi,New Delhi,Male
+Sunita Verma,HR,35000,January,Uttar Pradesh,Lucknow,Female
+Kiran Rao,Sales,74000,February,Karnataka,Bengaluru,Female
+Amit Kumar,Marketing,43000,February,Bihar,Patna,Male
+Deepa Nair,IT,58000,February,Kerala,Kochi,Female
+Vijay Singh,HR,32000,February,Rajasthan,Jaipur,Male
+Neha Gupta,Sales,81000,March,Delhi,New Delhi,Female
+Ravi Shankar,Marketing,67000,March,Tamil Nadu,Chennai,Male
+Pooja Mehta,IT,55000,March,Maharashtra,Pune,Female
+Suresh Yadav,HR,38000,March,Madhya Pradesh,Bhopal,Male
+Ananya Iyer,Sales,92000,April,Tamil Nadu,Chennai,Female
+Manish Tiwari,Marketing,51000,April,Uttar Pradesh,Kanpur,Male
+Kavitha Reddy,IT,63000,April,Telangana,Hyderabad,Female
+Prakash Joshi,HR,34000,April,Gujarat,Surat,Male
+Swati Desai,Sales,77000,May,Maharashtra,Nagpur,Female
+Arun Mishra,Marketing,69000,May,Bihar,Gaya,Male
+Lakshmi Pillai,IT,72000,May,Kerala,Thiruvananthapuram,Female
+Dinesh Chauhan,HR,41000,May,Rajasthan,Jodhpur,Male
+Meena Agarwal,Sales,95000,June,Delhi,New Delhi,Female
+Sanjay Bose,Marketing,58000,June,West Bengal,Kolkata,Male
+Radha Krishna,IT,68000,June,Andhra Pradesh,Visakhapatnam,Female
+Harish Nair,HR,36000,June,Karnataka,Mysuru,Male
+Preeti Saxena,Sales,83000,July,Uttar Pradesh,Agra,Female
+Ganesh Patil,Marketing,62000,July,Maharashtra,Nashik,Male
+Usha Rani,IT,54000,July,Telangana,Warangal,Female
+Brijesh Pandey,HR,39000,July,Madhya Pradesh,Indore,Male
+Anjali Singh,Sales,88000,August,Delhi,New Delhi,Female
+Manoj Dubey,Marketing,47000,August,Bihar,Muzaffarpur,Male
+Savita Kulkarni,IT,71000,August,Maharashtra,Aurangabad,Female
+Rajendra Pal,HR,33000,August,Rajasthan,Kota,Male
