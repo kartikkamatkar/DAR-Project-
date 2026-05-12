@@ -3,7 +3,7 @@
 # 🇮🇳 Dynamic Reporting Tool — India Edition
 
 ### 📊 Overview
-The **Dynamic Reporting Tool** is a specialized R-based web application that simplifies data analysis for non-technical users. While it can process any standard CSV, it is optimized for Indian datasets, featuring localized currency formatting (₹), theme-based styling using Indian flag colors, and specific state-wise sales analysis.
+The **Dynamic Reporting Tool** is a specialized R-based web application that simplifies data analysis for non-technical users. While it can process any standard CSV, it is optimized for Indian datasets, featuring localized currency formatting (₹), theme-based styling using Indian flag colors, and specific state-wise sales analysis...
 
 ### 🛠️ Technologies Used
 * **Language**: R Programming
